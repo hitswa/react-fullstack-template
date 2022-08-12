@@ -1,0 +1,3 @@
+# last modified Friday, 12th August 2022
+# locking Node active LTS version i.e. Node v16 as per https://nodejs.org/en/about/releases/
+lts/gallium
